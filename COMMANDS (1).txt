@@ -1,0 +1,81 @@
+1. pwd Command
+
+The pwd command is used to display the location of the current working directory.
+
+Syntax:
+pwd  
+
+2. mkdir Command
+
+The mkdir command is used to create a new directory under any directory.
+
+Syntax:
+mkdir <directory name>  
+
+3. rmdir Command
+
+The rmdir command is used to delete a directory.
+
+Syntax:
+rmdir <directory name>  
+
+4. ls Command
+
+The ls command is used to display a list of content of a directory.
+
+Syntax:
+ls  
+
+5. cd Command
+
+The cd command is used to change the current directory.
+
+Syntax:
+cd <directory name>  
+
+
+6. touch Command
+
+The touch command is used to create empty files. We can create multiple empty files by executing it once.
+
+Syntax:
+touch <file name>  
+touch <file1>  <file2> ....  
+
+7. cat Command
+
+The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
+
+Syntax:
+cat [OPTION]... [FILE]..  
+To create a file, execute it as follows:
+cat > <file name>  
+// Enter file content  
+Press "CTRL+ D" keys to save the file. To display the content of the file, execute it as follows:
+cat <file name>  
+
+8. rm Command
+
+The rm command is used to remove a file.
+
+Syntax:
+rm <file name>
+
+9. cp Command
+
+The cp command is used to copy a file or directory.
+
+Syntax:
+To copy in the same directory:
+cp <existing file name> <new file name>  
+To copy in a different directory:
+
+
+10. mv Command
+
+The mv command is used to move a file or a directory form one location to another location.
+
+Syntax:
+mv <file name> <directory path>  
+
+
